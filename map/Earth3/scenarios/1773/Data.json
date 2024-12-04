@@ -166,5 +166,41 @@
 	CivID: 28,
 	PCID: 24,
 	CPID: 3190
+},
+{
+	CivTAG: "rus_m",
+	CivID: 29,
+	PCID: 29,
+	CPID: 3738
+},
+{
+	CivTAG: "crkh_m",
+	CivID: 30,
+	PCID: 24,
+	CPID: 6627
+},
+{
+	CivTAG: "spa2_m",
+	CivID: 31,
+	PCID: 31,
+	CPID: 6561
+},
+{
+	CivTAG: "por_m",
+	CivID: 32,
+	PCID: 32,
+	CPID: 11
+},
+{
+	CivTAG: "and_o",
+	CivID: 33,
+	PCID: 33,
+	CPID: 55
+},
+{
+	CivTAG: "eng_n",
+	CivID: 34,
+	PCID: 34,
+	CPID: 825
 }
 ]
